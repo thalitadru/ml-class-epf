@@ -132,4 +132,4 @@ dmypy.json
 .virtual_documents
 
 # log dir
-logs
+*logs*
