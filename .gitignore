@@ -133,3 +133,6 @@ dmypy.json
 
 # log dir
 *logs*
+# ignore checkpoint and h5 files
+*.h5
+*.ckpt
